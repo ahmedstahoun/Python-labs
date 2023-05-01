@@ -137,4 +137,4 @@ while True:
     elif key == 3:
         Manager.list_managers()
     elif key == 4:
-        flag = False
+        break
